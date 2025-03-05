@@ -18,4 +18,6 @@ being informed via email.
 
 ![../images/ShipMI-Choreo.png](../images/ShipMI-Choreo.png)
 
+Click to download the [BPMN diagrams*](../signavio-export/ShipMI-Choreo.bpmn)
+
 <sup>*All diagrams have been authored with SAP Signavio under Academic license</sup>
