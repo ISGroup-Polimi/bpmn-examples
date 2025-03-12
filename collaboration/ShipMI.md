@@ -1,3 +1,5 @@
+# Ship MI
+
 Focusing the process defined in [ShipMI](/choreography/ShipMI.md) which choreography is here reported
 
 ![ShipMI choreography](/images/ShipMI-Choreo.png)
