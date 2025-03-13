@@ -22,6 +22,6 @@ both parties.
 
 ![../images/LoanMI-Choreo2.png](../images/LoanMI-Choreo2.png)
 
-Click to download the [BPMN diagrams*](../signavio-export/LoanMI-Choreo.bpmn)
+Click to download the [BPMN diagrams in XML*](../signavio-export/LoanMI-Choreo.bpmn)
 
 <sup>*All diagrams have been authored with SAP Signavio under Academic license</sup>

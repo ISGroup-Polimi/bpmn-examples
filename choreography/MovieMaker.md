@@ -22,6 +22,6 @@ the actors. The process concludes when all contracts are received and signed and
 
 ![../images/MovieMaker-Choreo4.png](../images/MovieMaker-Choreo4.png)
 
-Click to download the [BPMN diagrams*](../signavio-export/MovieMaker-Choreo.bpmn)
+Click to download the [BPMN diagrams in XML*](../signavio-export/MovieMaker-Choreo.bpmn)
 
 <sup>*All diagrams have been authored with SAP Signavio under Academic license</sup>
