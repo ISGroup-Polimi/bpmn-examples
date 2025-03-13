@@ -4,4 +4,5 @@ This site collects modeling exercises with BPMN used mainly in the Process and S
 
 At the moment the site offers exercises of:
 - BPMN Choreography
+- BPMN Collaboration
 - (more to come)
