@@ -1,0 +1,8 @@
+# University
+
+The process begins when the university decides to activate a new advanced course for practitioners, it first contacts the members of the faculty who are usually available for the modules that make up the course. Faculty is not considered part of the university. Usually, the number of teachers exceeds the number of modules, so the availability request stops when there are no more available modules. However, it may happen that, having contacted all the teachers, not all the modules are covered. In this case, the advanced course is canceled.
+
+If the course is confirmed, then registrations are opened for 30 days during which the university's secretariat collects registration requests from interested practitioners. At the end of this period, the university selects the eligible applications and contacts the practitioners informing them of the selection or non-selection. In the first case, the message also contains information for the course payment. In the second case, for some of them, there is a waiting list in case some selected practitioners does not finalize their registration.
+
+For the selected practitioners, the process continues and the university awaits payment of the registration fee. If this does not occur within 30 days, the registration is canceled, and the place is taken by one of the practitioners on the waiting list who is assumed to pay promptly. We also assume that there is always a practitioner in the waiting list able to substitute a practitioner that have been selected.
+Once the payment is completed, the course can begin thus the selected faculty is informed.
