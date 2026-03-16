@@ -1,0 +1,7 @@
+# Law Firm
+
+Model with BPMN Choreography the following process describing the process management of law firm appointments in which there are several lawyers.
+
+The process begins every Friday when the secretariat first of all verifies what appointments have been made for the following week and asks lawyers and clients to confirm their presence. In fact, since the appointment was made, the lawyers may have been called to a trial and therefore no longer be available, or the clients may have impediments. In the face of the confirmation request, the lawyer may not respond within 4 hours, this indicates a confirmation of availability. The client, on the other hand, must necessarily respond – confirming or not – within 4 hours, otherwise his appointment is cancelled and a fee of 100 euros is issued.
+
+Once all the availability or unavailability has been collected, the secretariat defines a new plan. As far as lawyers are concerned, the date sent is considered already confirmed since it is defined starting from the lawyers' calendar made available. As for the patients, the new date is sent and the patient has 4 hours to confirm (and in this case the process ends), or ask for a new date. In the second case, the secretariat looks for an available date from the lawyer's calendar and asks the client again for confirmation. This is until a date is found. At this point, the secretariat informs the lawyer of the date change.
