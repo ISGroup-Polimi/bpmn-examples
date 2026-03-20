@@ -8,3 +8,8 @@ Once all responses have been collected, the travel agency provides detailed info
 
 The travel agency then awaits confirmation from the bank, in the form of payment receipts for each participating customer. Once all receipts have been received, the process is concluded.
 
+![../images/ShipMI-Choreo.png](../images/Travel-Choreo1.png)
+
+Click to download the [BPMN diagrams*](../signavio-export/Travel-Choreo1.bpmn)
+
+<sup>*All diagrams have been authored with SAP Signavio under Academic license</sup>
