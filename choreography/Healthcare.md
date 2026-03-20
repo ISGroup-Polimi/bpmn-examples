@@ -1,6 +1,11 @@
-# Healthcare
+# HospitalWorkshifts
 
 Model with BPMN Choreography the following process describing the process management of healthcare staff of a hospital. HR, administration, doctors and nurses should be considered as actors in separate pools.
 
 The process involves the definition of work shifts by the staff of a hospital. The process starts with the HR department that defines a staff allocation plan made up of doctors and nurses. Once the plan has been defined, HR will send each of the doctors and nurses the defined shift. Doctors have no possibility to change this plan. On the contrary, nurses could ask for variations. If such changes are not requested within 12 hours, the plan is considered accepted. If changes are requested, after receiving them from the nurse, HR will forward them to the administration who will evaluate them. The administration can accept the request, or make a counter-proposal that the nurse can accept or reject. In the event of refusal, the administration will confirm the request for changes initially made by the nurse. The administration will then send the plan agreed with the nurse to HR. When HR has consolidated shifts for all doctors and nurses, the final plan is sent to the IT department for publication on the intranet portal.	
 
+![../images/HospitalWorkshifts-Choreo.png](../images/HospitalWorkshifts-Choreo.png)
+
+Click to download the [BPMN diagrams*](../signavio-export/HospitalWorkshifts-Choreo.bpmn)
+
+<sup>*All diagrams have been authored with SAP Signavio under Academic license</sup>
